@@ -9,8 +9,7 @@ if(user == null){
 %>
 
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
     <title>Home</title>
     <link rel="stylesheet" href="css/style.css">
