@@ -29,6 +29,11 @@
         <button type="submit">Login</button>
 
     </form>
+<br>
+
+<a href="register.jsp">
+    Create New Account
+</a>
 
 </div>
 
